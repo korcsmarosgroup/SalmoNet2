@@ -1,0 +1,6 @@
+Together with this OMA Standalone release you downloaded the following 2 
+genomes and their precomputed all-against-all alignments:
+  - ECOLI: Escherichia coli (strain K12) (DB release: Ensembl Fungi 38; ASM584v2)
+  - SALTY: Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) (DB release: 24-NOV-2009 (Rel. 114, Last updated, Version 114))
+The genome files are stored in fasta format in the folder '/DB'. 
+The Alignments are stored in '/Cache/AllAll'.

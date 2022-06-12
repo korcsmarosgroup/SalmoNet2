@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.20/phyloxml.xsd">
+ <phylogeny rooted="true" rerootable="false" branch_length_unit="PAM">
+  <name>Species phylogeny estimated in OmaStandalone - release 2.5.0</name>
+  <date>2022-05-12T11:24:26</date>
+  <clade>
+   <clade branch_length="2.743479">
+    <clade branch_length="0.112894">
+     <taxonomy>
+      <id>99287</id>
+      <code>SALTY</code>
+      <scientific_name></scientific_name>
+     </taxonomy>
+    </clade>
+    <clade branch_length="0.110575">
+     <name>Bovismorbificans_CVM_30176</name>
+    </clade>
+   </clade>
+   <clade branch_length="2.855214">
+    <taxonomy>
+     <id>511145</id>
+     <code>ECOLI</code>
+     <scientific_name></scientific_name>
+    </taxonomy>
+   </clade>
+  </clade>
+
+ </phylogeny>
+</phyloxml>
